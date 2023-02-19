@@ -1,0 +1,18 @@
+
+
+
+<div class="container">
+
+
+    
+      <div class="grid">
+          <div class="micard" *ngFor="let item of productoService.allProductos">
+              <img src={{item.imagen}}   width="50%" alt="">
+              <div class="informacion">
+                  <span [ngStyle]="{'background-color':item.status === 'Alive' ? 'green' : 'red' }" class="badge">{{item.status}}</span>
+              <span class="titulo">{{item.nombre}}</span>
+              </div>
+              <a class="boton btn btn-primary btn-lg px-4 me-sm-3" href="{{item.url}}">Comprar en Amazon</a>
+          </div>
+      </div>
+  </div>
