@@ -1,9 +1,11 @@
 footer{
     padding: 0px;
-    margin-bottom: 0px;
+    
     background-color: rgb(4, 107, 107) !important; ;
     color: rgb(42, 113, 175);
    
+    width: 100%;
+    
    
   
 }
