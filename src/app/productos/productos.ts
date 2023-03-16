@@ -27,7 +27,7 @@ export const productos: any[] = [
   {
     nombre: 'PrimEssence, (Menta Piperita, 100 ml) ',
     descripcion:
-      'PrimEssence Aceites esenciales,Aceite Premium100%,Apto para Ambientación,Higiene,Cosmética,Humificador,Difusor,Aceite Esencial para hacer jabón,velas,Noche Romántica (Menta Piperita, 100 ml)',
+      'PrimEssence Aceites esenciales,Aceite Premium100%,Apto para Ambientación, Higiene, Cosmética, Humificador, Difusor, Aceite Esencial para hacer jabón,velas,Noche Romántica (Menta Piperita, 100 ml)',
     informacion:
       '❶【ACEITE PREMIUM 100%】Perfectos para poder hacer todo tipo de productos de Ambientación, Higiene y Cosméticos ya que nuestros aceites esenciales son de alta gama y larga durabilidad. ❷【MAGNÍFICO PARA SU HUMIFICADOR, DIFUSOR Y MUCHO MÁS】 Lo único que tiene que hacer es agregar entre 3 y 6 gotas a su difusor o humicador (dependiendo de la intensidad deseada y tamaño del humidificador/difusor) y a disfrutar de los aromas, o puede hacer un limpiador de forma artesanal. ¡¡También es ideal para elaborar productos como hacer velas, jabón,mikados ,cremas,lociones, bombas de baño, exfoliantes y mucho más!!',
     marca: 'PrimEssence',
@@ -66,7 +66,7 @@ export const productos: any[] = [
   {
     nombre: 'SALKING 12 x 10 ml Aceites Esenciales ',
     descripcion:
-      'SALKING 12 x 10 ml Aceites Esenciales para Humidificador,100% Puro Aceites Esenciales Aromaterapia-Lavanda,Rosa,Jazmín,Árbol de Té,Romero,Limoncillo,Menta,Eucalipto,Cedro, limón,Pomelo, Fresa',
+      'SALKING 12 x 10 ml Aceites Esenciales para Humidificador,100% Puro Aceites Esenciales Aromaterapia-Lavanda, Rosa, Jazmín,Árbol de Té,Romero, Limoncillo, Menta, Eucalipto, Cedro, limón,Pomelo, Fresa',
     informacion:
       '12 x 10 ml Puro Aceites Esenciales - SALKING conjunto de aceite esencial de aromaterapia incluye lavanda, rosa, jazmín, árbol de té, eucalipto,limoncillo, romero, menta, cedro, limón, pomelo, fresa. Ya sea que seas nuevo en los aceites esenciales o que ya los ame, comprar un kit puede ahorrarte dinero y proporcionarte la oportunidad de diy ellos para crear nuevos aromas. Tenemos tipos de aceites esenciales para que usted pueda satisfacer sus diferentes necesidades.',
     marca: 'SALKING',

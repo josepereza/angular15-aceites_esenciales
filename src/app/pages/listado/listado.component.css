@@ -17,7 +17,11 @@ border-radius: 27px 27px 27px 27px;
 -moz-border-radius: 27px 27px 27px 27px;
 -webkit-border-radius: 27px 27px 27px 27px;
 border: 2px groove #000000;
-padding: 5px;
+padding: 12px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
 }
 .grid{
   width: 100%;
@@ -31,6 +35,7 @@ padding: 5px;
 }
 img {
   border-radius: 15px;
+  width: 50%;
 }
 
 .badge {
@@ -41,4 +46,19 @@ img {
   font-size: 0.8em;
   margin-right: 20px;
   border-radius: 10px;
+}
+.informacion{
+  max-width: 90%;
+  max-height: 100%;
+}
+
+@media screen and (max-width: 690px) {
+  .micard{
+width: 100%;
+height: 100vh;
+  }
+  img{
+    width: auto;
+    max-height:35% ;
+  }
 }
